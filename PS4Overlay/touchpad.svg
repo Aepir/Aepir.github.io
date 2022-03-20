@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107 63" width="107" height="63">
-	<title>touchpad</title>
-	<defs>
-		<image  width="108" height="65" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAABBCAMAAAADirEXAAAAAXNSR0IB2cksfwAAAEVQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAA5ubmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3PcF3wAAABd0Uk5TAAa1/5+A7/8Qj2C/X68wz1CKbqdA33zwKCNvAAAAh0lEQVR4nO3Z2w3CMBAF0Y2vbQzGPJJA/6WyQkjQgPeHmQZOAWMW2ZIUU1rMknIJqSYz6RBTERgYGBgYGBgYGBgYGBgYGBgYGBgY2D9jVS0GOzqWdYrBumNnjRDroquZDd0CrNZ1d2xVgNaytveNcW3sU6VWHh/LtTH9+tTtu5qefar0S4X1AnuZr94ZLRqvAAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-	</style>
-	<use id="path255" href="#img1" x="0" y="-1"/>
-</svg>
