@@ -19,7 +19,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/face.svgz);
+    background: url(face.svg);
 }
 
 .ds4 .button.pressed {
