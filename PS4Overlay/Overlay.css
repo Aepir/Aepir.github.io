@@ -7,46 +7,36 @@
         margin-top: -280px;*/
 }
 
-.ds4 .face {
-    background: url(dpad.svgz);
+.ds4 .button {
     position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(face.svg);
 }
 
-.ds4 .face.up, .ds4 .face.down {
-    width: 36px;
-    height: 46px;
-}
-
-.ds4 .face.left, .ds4 .face.right {
-    width: 46px;
-    height: 36px;
-}
-
-.ds4 .face.up {
-    left: 44px;
-    top: 0;
-    background-position: -37px 0px;
-}
-
-.ds4 .face.down {
-    left: 44px;
-    bottom: 0;
-    background-position: 0px 0;
-}
-
-.ds4 .face.left {
-    top: 45px;
-    left: 0;
-    background-position: 10px 0;
-}
-
-.ds4 .face.right {
-    top: 45px;
-    right: 0px;
-    background-position: 52px 0;
-}
-
-.ds4 .face.pressed {
+.ds4 .button.pressed {
+    background-position-y: 55px;
     /* margin-top: 5px; */
-    background-position-y: 52px;
+}
+
+.ds4 .a {
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.ds4 .b {
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.ds4 .x {
+    background-position: -113px 0;
+    top: 58px;
+}
+
+.ds4 .y {
+    background-position: 55px 0;
+    left: 58px;
 }
