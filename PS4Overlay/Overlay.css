@@ -17,8 +17,8 @@
 
 .ds4 .button {
     position: absolute;
-    width: 56px;
-    height: 56px;
+    width: 55px;
+    height: 55px;
     background: url(face.svgz);
 }
 
