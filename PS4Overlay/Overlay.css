@@ -17,13 +17,13 @@
 
 .ds4 .button {
     position: absolute;
-    width: 224px;
-    height: 112px;
-    background: url(face.svg);
+    width: 55px;
+    height: 55px;
+    background: url(ps4-assets/face.svgz);
 }
 
 .ds4 .button.pressed {
-    background-position-y: 224px;
+    background-position-y: 55px;
     /* margin-top: 5px; */
 }
 
