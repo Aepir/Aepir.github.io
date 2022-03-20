@@ -23,20 +23,20 @@
 }
 
 .ds4 .button.pressed {
-    background-position-y: -55px;
+    background-position-y: 224px;
     /* margin-top: 5px; */
 }
 
 .ds4 .a {
     background-position: 0 0;
     bottom: 0;
-    left: 20px;
+    left: 58px;
 }
 
 .ds4 .b {
-    background-position: 0 0;
-    bottom: 0;
-    left: 20px;
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
 }
 
 .ds4 .x {
@@ -45,7 +45,6 @@
 }
 
 .ds4 .y {
-    background-position: 0 0;
-    bottom: 0;
-    left: 20px;
+    background-position: 55px 0;
+    left: 58px;
 }
