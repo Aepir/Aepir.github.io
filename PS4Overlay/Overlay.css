@@ -9,16 +9,16 @@
 
 .ds4 .abxy {
     position: absolute;
-    width: 224px;
-    height: 113px;
+    width: 170px;
+    height: 171px;
     top: 159px;
     left: 567px;
 }
 
 .ds4 .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+    width: 56px;
+    height: 56px;
     background: url(face.svg);
 }
 
