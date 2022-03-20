@@ -9,8 +9,8 @@
 
 .ds4 .abxy {
     position: absolute;
-    width: 158px;
-    height: 158px;
+    width: 150px;
+    height: 150px;
     top: 169px;
     left: 567px;
 }
@@ -30,23 +30,21 @@
 .ds4 .a {
     background-position: 0 0;
     bottom: 0;
-    left: 54px;
+    left: 48px;
 }
 
 .ds4 .b {
     background-position: -55px 0;
-    top: 58px;
+    top: 48px;
     right: 0px;
 }
 
 .ds4 .x {
     background-position: -110px 0;
-    top: 58px;
-    left: 5px;
+    top: 48px;
 }
 
 .ds4 .y {
     background-position: 55px 0;
-    left: 54px;
-    top: 15px
+    left: 48px;
 }
