@@ -9,10 +9,10 @@
 
 .ds4 .abxy {
     position: absolute;
-    width: 170px;
-    height: 171px;
-    top: 159px;
-    left: 567px;
+    width: 158px;
+    height: 158px;
+    top: 120px;
+    left: 300px;
 }
 
 .ds4 .button {
@@ -30,7 +30,7 @@
 .ds4 .a {
     background-position: 0 0;
     bottom: 0;
-    left: 58px;
+    left: 54px;
 }
 
 .ds4 .b {
@@ -42,9 +42,11 @@
 .ds4 .x {
     background-position: -113px 0;
     top: 58px;
+    left: 5px;
 }
 
 .ds4 .y {
     background-position: 55px 0;
-    left: 58px;
+    left: 54px;
+    top: 15px
 }
