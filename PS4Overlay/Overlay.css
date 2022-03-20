@@ -16,7 +16,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(touchpad.svg);
+    background: url("https://Aepir.github.io/PS4Overlay/touchpad.png") no-repeat center;
 }
 
 .ds4 .arrows {
