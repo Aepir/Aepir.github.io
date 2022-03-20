@@ -7,6 +7,14 @@
         margin-top: -280px;*/
 }
 
+.ds4 .abxy {
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
+}
+
 .ds4 .button {
     position: absolute;
     width: 224px;
