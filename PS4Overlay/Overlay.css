@@ -39,6 +39,35 @@
     background-position-x: 128px;
 }
 
+.ds4 .bumper {
+    width: 128px;
+    height: 100%;
+    background: url("https://Aepir.github.io/PS4Overlay/bumpers.svg");
+    opacity: 0;
+}
+
+.ds4 .bumpers {
+    width: 371px;
+    height: 32px;
+    top: 164px;
+    position: absolute;
+    left: 216px;
+}
+
+.ds4 .bumper.pressed {
+    opacity: 0;
+}
+
+.ds4 .bumper.left {
+    /* -webkit-transform: rotateY(180deg); */
+    /* transform: rotateY(180deg); */
+    float: left;
+}
+
+.ds4 .bumper.right {
+    float: right;
+    background-position-x: 128px;
+}
 
 .ds4 .touchpad {
     width: 107px;
