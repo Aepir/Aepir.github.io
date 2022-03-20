@@ -7,6 +7,33 @@
         margin-top: -280px;*/
 }
 
+.ds4 .touchpad {
+    width: 107px;
+    height: 63px;
+    position: absolute;
+    left: 348px;
+    top: 224px;
+}
+
+.ds4 .touchpad.pressed {
+    background: url(touchpad.svg) no-repeat center;
+}
+
+.ds4 .arrows {
+    position: absolute;
+    width: 172px;
+    height: 46px;
+    top: 225px;
+    left: 316px;
+}
+
+.ds4 .back, .ds4 .start {
+    background: url(start.svg);
+    width: 28px;
+    height: 46px;
+    opacity: 0;
+}
+
 .ds4 .abxy {
     position: absolute;
     width: 150px;
@@ -47,4 +74,9 @@
 .ds4 .y {
     background-position: 55px 0;
     left: 48px;
+}
+
+.ds4 .face {
+    background: url(dpad.svg);
+    position: absolute;
 }
