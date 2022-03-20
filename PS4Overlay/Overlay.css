@@ -9,8 +9,8 @@
 
 .ds4 .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+    width: 224px;
+    height: 113px;
     background: url(face.svg);
 }
 
