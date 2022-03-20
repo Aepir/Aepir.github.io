@@ -67,7 +67,7 @@
 .ds4 .bumper.right {
     float: right;
     background-position-x: 128px;
-    transform: rotateY(180deg);
+    /* transform: rotateY(180deg); */
 }
 
 .ds4 .touchpad {
